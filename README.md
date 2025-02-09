@@ -1,7 +1,7 @@
 # Research Rover
 
 ## Project Overview
-Research Rover is a specialized search tool designed to help students find relevant research papers and resources efficiently. The project implements robust search mechanisms and organization features to streamline the research paper discovery process.
+Research Rover is a specialized search tool designed to help students find relevant research papers and resources efficiently. The project implements robust search mechanisms and organizational features to streamline the research paper discovery process.
 
 ## Team Members
 - ADITI MONDOL (Roll: 2009034)
